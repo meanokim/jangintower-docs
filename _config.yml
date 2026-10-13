@@ -1,0 +1,4 @@
+# GitHub Pages(Jekyll) 설정. 저장소 Settings → Pages → Branch: main, Folder: /docs
+title: 장인의 탑
+lang: ko
+theme: jekyll-theme-minimal
